@@ -5,7 +5,6 @@
   "main": "index.js",
   "dependencies": {
     "geotiff": "^2.0.4",
-    
     "csscolorparser": "^1.0.3",
     "json-stringify-pretty-compact": "^2.0.0",
     "lerc": "^3.0.0",
